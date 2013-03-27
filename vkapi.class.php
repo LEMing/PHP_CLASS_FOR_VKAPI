@@ -4,7 +4,7 @@
  * VKAPI class for vk.com social network
  *
  * @package server API methods
- * @autor http://vk.com/lem_ing
+ * @autor http://muhmundr.com/
  * @version 2.0
  */
  
